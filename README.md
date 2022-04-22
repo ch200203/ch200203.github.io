@@ -1,4 +1,6 @@
-# React 쇼핑몰 예제 
+### React 쇼핑몰 예제 
 
+***
 
-- React로 웹사이트 제작 후 github 배포 연습
+- React.js 이용 쇼핑몰 제작
+- github.io 배포 테스트
